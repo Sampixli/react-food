@@ -1,0 +1,72 @@
+{
+    "Navbar": {
+        "Home": "Home",
+        "Menu": "Menu",
+        "Mobile-App": "Mobile App",
+        "Contact Us": "Contact Us",
+        "Sign In": "Sign In",
+        "Dark Mode": "Dark Mode"
+    },
+    "Header": {
+        "orderYourFood": "Order your favourite food here",
+        "description": "Choose from a diverse menu featuring a delectable array of dishes crafted with the finest ingredients and culinary expertise. Our mission is to satisfy your cravings and elevate your dining experience, one delicious meal at a time.",
+        "viewMenu": "View Menu"
+    },
+    "ExploreMenu": {
+        "title": "Explore our menu",
+        "description": "Choose from a diverse menu featuring a delectable array of dishes crafted with the finest ingredients and culinary expertise. Our mission is to satisfy your cravings and elevate your dining experience, one delicious meal at a time."
+    },
+    "Fooddisplay": {
+        "topDishes": "Top dishes near you"
+    },
+    "Footer": {
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit...",
+        "companyTitle": "COMPANY",
+        "aboutUs": "About us",
+        "delivery": "Delivery",
+        "privacyPolicy": "Privacy policy",
+        "getInTouch": "GET IN TOUCH",
+        "copyright": "Copyright 2024 ® Tomato.com - All Right Reserved"
+    },
+    "AppDownload": {
+        "text": "For Better Experience Download\nTomato App"
+    },
+    "Cart": {
+        "Item": "Item",
+        "Title": "Title",
+        "Price": "Price",
+        "Quantity": "Quantity",
+        "Total": "Total",
+        "Remove": "Remove",
+        "CartTotals": "Cart Totals",
+        "Subtotal": "Subtotal",
+        "DeliveryFee": "Delivery Fee",
+        "Proceed": "PROCEED TO CHECKOUT",
+        "PromoText": "If you have promo code, Enter it here",
+        "PromoPlaceholder": "promo code",
+        "Submit": "Submit"
+    },
+    "PlaceOrder": {
+        "DeliveryInformation": "Delivery Information",
+        "FirstName": "First name",
+        "LastName": "Last name",
+        "Email": "Email address",
+        "Street": "Street",
+        "City": "City",
+        "State": "State",
+        "Zip": "Zip code",
+        "Country": "Country",
+        "Phone": "Phone",
+        "ProceedToPayment": "PROCEED TO PAYMENT"
+    },
+    "Categories": {
+        "Salad": "Salad",
+        "Rolls": "Rolls",
+        "Deserts": "Desserts",
+        "Sandwich": "Sandwich",
+        "Cake": "Cake",
+        "Pure Veg": "Pure Vegetarian",
+        "Pasta": "Pasta",
+        "Noodles": "Noodles"
+    }
+}
